@@ -1,0 +1,8 @@
+[package]
+name = "addplus"
+version = "0.0.0"
+edition = "2021"
+description = "An ergonomic wrapper for popular commands"
+license = "GPL-3.0"
+
+[dependencies]
